@@ -1,0 +1,35 @@
+{
+  "name": "@tmorin/plantuml-libs",
+  "version": "1.0.0-alpha.0",
+  "description": "Set of libraries for [PlantUML](http://plantuml.com).",
+  "license": "MIT",
+  "homepage": "https://github.com/tmorin/plantuml-libs#readme",
+  "bugs": {
+    "url": "https://github.com/tmorin/plantuml-libs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmorin/plantuml-libs.git"
+  },
+  "author": {
+    "name": "Thibault Morin",
+    "url": "https://tmorin.github.io"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.0",
+    "standard-version": "^7.1.0"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "winston": "^3.2.1",
+    "yargs": "^15.3.0"
+  }
+}

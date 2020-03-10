@@ -1,2 +1,4 @@
-.idea/
-tmp/
+.idea
+node_modules
+tmp
+test/**/*.png
